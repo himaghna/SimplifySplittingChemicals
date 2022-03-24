@@ -11,6 +11,9 @@
   <img alt="PyPI - License" src="https://img.shields.io/github/license/jacksonburns/simplifysplittingchemicals">
 </p>
 
+## Online Documentation
+[Click here to read the docuemtntation](https://jacksonburns.github.io/SimplifySplittingChemicals/)
+
 ### TODO List
 - [ ] add directory strucure
 - [ ] tests and methods signatures
