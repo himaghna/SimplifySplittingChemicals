@@ -2,7 +2,7 @@
 <h3 align="center">Simplify your train:test Splitting for Chemicals in Machine Learning</h3>
 
 <p align="center">  
-  <img alt="simsplitchemlogo" src="https://github.com/JacksonBurns/SimplifySplittingChemicals/blob/main/simplifysplittingchemicals/simsplitchem_logo.png">
+  <img alt="simsplitchemlogo" src="https://github.com/JacksonBurns/SimplifySplittingChemicals/blob/main/simsplitchem_logo.png">
 </p> 
 <p align="center">
   <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/JacksonBurns/SimplifySplittingChemicals?style=social">
