@@ -26,7 +26,7 @@ cwd = pathlib.Path(__file__).parent
 README = (cwd / "README.md").read_text()
 
 setup(
-    name="SimplifySplittingChemicals",
+    name="simsplitchem",
     version=get_version("simsplitchem/__init__.py"),
     description="Simplifying ML Splitting with Chemicals",
     long_description=README,
@@ -37,6 +37,6 @@ setup(
     license="MIT",
     classifiers=["Programming Language :: Python :: 3"],
     install_requires=read("requirements.txt").split("\n"),
-    packages=['simsplitchem'],
+    packages=find_packages(),
     include_package_data=True,
 )
